@@ -1,5 +1,5 @@
-class DemoCode {
-  String name;
-  String contact;
-  DemoCode({this.name, this.contact});
+class TodoModel {
+  String todo;
+
+  TodoModel({this.todo});
 }
